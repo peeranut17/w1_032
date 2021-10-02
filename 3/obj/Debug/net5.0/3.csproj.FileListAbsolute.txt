@@ -1,0 +1,16 @@
+D:\Coding\VSCode\Learn\c#\pmond\3\obj\Debug\net5.0\3.csproj.AssemblyReference.cache
+D:\Coding\VSCode\Learn\c#\pmond\3\obj\Debug\net5.0\3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\VSCode\Learn\c#\pmond\3\obj\Debug\net5.0\3.AssemblyInfoInputs.cache
+D:\Coding\VSCode\Learn\c#\pmond\3\obj\Debug\net5.0\3.AssemblyInfo.cs
+D:\Coding\VSCode\Learn\c#\pmond\3\obj\Debug\net5.0\3.csproj.CoreCompileInputs.cache
+D:\Coding\VSCode\Learn\c#\pmond\3\bin\Debug\net5.0\3.exe
+D:\Coding\VSCode\Learn\c#\pmond\3\bin\Debug\net5.0\3.deps.json
+D:\Coding\VSCode\Learn\c#\pmond\3\bin\Debug\net5.0\3.runtimeconfig.json
+D:\Coding\VSCode\Learn\c#\pmond\3\bin\Debug\net5.0\3.runtimeconfig.dev.json
+D:\Coding\VSCode\Learn\c#\pmond\3\bin\Debug\net5.0\3.dll
+D:\Coding\VSCode\Learn\c#\pmond\3\bin\Debug\net5.0\ref\3.dll
+D:\Coding\VSCode\Learn\c#\pmond\3\bin\Debug\net5.0\3.pdb
+D:\Coding\VSCode\Learn\c#\pmond\3\obj\Debug\net5.0\3.dll
+D:\Coding\VSCode\Learn\c#\pmond\3\obj\Debug\net5.0\ref\3.dll
+D:\Coding\VSCode\Learn\c#\pmond\3\obj\Debug\net5.0\3.pdb
+D:\Coding\VSCode\Learn\c#\pmond\3\obj\Debug\net5.0\3.genruntimeconfig.cache

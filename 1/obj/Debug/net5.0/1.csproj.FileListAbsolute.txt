@@ -1,0 +1,16 @@
+D:\Coding\VSCode\Learn\c#\pmond\1\bin\Debug\net5.0\1.exe
+D:\Coding\VSCode\Learn\c#\pmond\1\bin\Debug\net5.0\1.deps.json
+D:\Coding\VSCode\Learn\c#\pmond\1\bin\Debug\net5.0\1.runtimeconfig.json
+D:\Coding\VSCode\Learn\c#\pmond\1\bin\Debug\net5.0\1.runtimeconfig.dev.json
+D:\Coding\VSCode\Learn\c#\pmond\1\bin\Debug\net5.0\1.dll
+D:\Coding\VSCode\Learn\c#\pmond\1\bin\Debug\net5.0\ref\1.dll
+D:\Coding\VSCode\Learn\c#\pmond\1\bin\Debug\net5.0\1.pdb
+D:\Coding\VSCode\Learn\c#\pmond\1\obj\Debug\net5.0\1.csproj.AssemblyReference.cache
+D:\Coding\VSCode\Learn\c#\pmond\1\obj\Debug\net5.0\1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\VSCode\Learn\c#\pmond\1\obj\Debug\net5.0\1.AssemblyInfoInputs.cache
+D:\Coding\VSCode\Learn\c#\pmond\1\obj\Debug\net5.0\1.AssemblyInfo.cs
+D:\Coding\VSCode\Learn\c#\pmond\1\obj\Debug\net5.0\1.csproj.CoreCompileInputs.cache
+D:\Coding\VSCode\Learn\c#\pmond\1\obj\Debug\net5.0\1.dll
+D:\Coding\VSCode\Learn\c#\pmond\1\obj\Debug\net5.0\ref\1.dll
+D:\Coding\VSCode\Learn\c#\pmond\1\obj\Debug\net5.0\1.pdb
+D:\Coding\VSCode\Learn\c#\pmond\1\obj\Debug\net5.0\1.genruntimeconfig.cache
